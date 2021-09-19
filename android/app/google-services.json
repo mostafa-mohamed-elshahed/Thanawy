@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28824975284",
+    "project_id": "thanawy-app",
+    "storage_bucket": "thanawy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28824975284:android:e16ffe8e5b422a676da4e1",
+        "android_client_info": {
+          "package_name": "com.example.thanawy_programming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28824975284-bi5dqh5h0hie011vf30gi6022nu32p6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTgqTJb595reszM46WxKiiwEv9RYOV9dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28824975284-bi5dqh5h0hie011vf30gi6022nu32p6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
